@@ -1,0 +1,12 @@
+sg.luckypool.io:6118
+sg2.luckypool.io:6118
+ca.luckypool.io:6118
+de-eu.luckypool.io:6118
+pl-eu.luckypool.io:6118
+tari.luckypool.io:6118
+15.235.224.84:6118
+15.235.229.99:6118
+51.222.248.141:6118
+57.129.85.63:6118
+51.68.155.151:6118
+51.195.4.150:6118
