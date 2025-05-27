@@ -4,7 +4,7 @@
 
 做最好的挖矿软件！
 
-1.1.0.1版下载地址：https://github.com/xiaokunkun521/CoreMiner/releases/download/1.1.01/windows_CoreMiner.zip
+最新版下载地址：[https://github.com/xiaokunkun521/CoreMiner/releases/download/1.1.01/windows_CoreMiner.zip](https://github.com/xiaokunkun521/CoreMiner/releases/download/1.1.0.2/windows.zip)
 
 Tg交流群:https://t.me/xiaokuangong
 
