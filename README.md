@@ -6,6 +6,8 @@
 
 最新版下载地址：https://github.com/xiaokunkun521/CoreMiner/releases/download/1.1.0.2/windows.zip
 
+如果发现BUG请加TG群反馈,会在第一时间修复。
+
 Tg交流群:https://t.me/xiaokuangong
 
 
