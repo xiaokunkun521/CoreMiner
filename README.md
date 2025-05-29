@@ -8,7 +8,6 @@
 
 如果您有什么更好的建议或发现BUG请加TG群反馈,作者会在第一时间维护。
 
-Tg交流群:https://t.me/xiaokuangong
 
 
 ![image](https://github.com/user-attachments/assets/7a22e453-0237-49fb-8d55-7b941a51192b)
