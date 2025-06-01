@@ -3,6 +3,7 @@
 支持多卡挖矿
 
 支持nvidia/AMD/intel的GPU挖矿
+
 支持AMD/intel的CPU挖矿
 
 公益、免费、无抽水。
