@@ -1,18 +1,4 @@
-
-<svg width="300" height="40" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="25" 
-        fill="url(#gradient)" 
-        font-size="22" 
-        font-weight="bold"
-        font-family="Arial">
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF0000"/>
-      <stop offset="100%" stop-color="#0000FF"/>
-    </linearGradient>
-    __一个专注于头矿币种的挖矿软件__
-  </text>
-</svg>
-
+__一个专注于头矿币种的挖矿软件__
 
 支持多卡挖矿
 
